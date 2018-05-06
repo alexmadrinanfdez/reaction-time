@@ -1,3 +1,3 @@
 # reaction-time
-Juego en el cuál el objetivo es ser capaz de reaccionar rápido y pulsar la tecla enter cuándo el sistema lo indique.
-El tiempo que hay que esperar para pulsar la tecla es aleatorio.
+Game that is able to measure your reflexes. The objective is to press 'Enter' as fast as possible when told to do so.
+The wait time to press is random.
